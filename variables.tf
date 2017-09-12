@@ -33,7 +33,7 @@ variable "Subnet-Private-AzA-CIDR" {
   description = "the cidr of the subnet"
 }
 variable "key_name" {
-  default = "vpn11"
+  default = "terra.pem"
   description = "the ssh key to use in the EC2 machines"
 }
 variable "DnsZoneName" {
