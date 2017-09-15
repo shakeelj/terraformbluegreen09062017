@@ -37,6 +37,6 @@ variable "key_name" {
   description = "the ssh key to use in the EC2 machines"
 }
 variable "DnsZoneName" {
-  default = "linuxacademy.internal"
+  default = "shakeel.internal"
   description = "the internal dns name"
 }
