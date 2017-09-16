@@ -5,7 +5,7 @@ variable "AmiLinux" {
   type = "map"
   default = {
     
-    us-west-2 = "ami-8ff7f8f4"
+    us-west-2 = "ami-ef5eaf97"
     
   }
   description = "I add only 3 regions (Virginia, Oregon, Ireland) to show the map feature but you can add all the r"
